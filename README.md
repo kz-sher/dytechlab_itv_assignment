@@ -30,3 +30,6 @@ usage: python3 downloadSGXFiles.py [options] [datetime|filename]
 -d      Choose datetime in format of yyyy-mm-dd e.g. 2020-05-08
 -out    Specify download directory. By default, it would be 'downloads/'
 ```
+
+# Got Question?
+> kzsherdev@gmail.com
