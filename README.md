@@ -1,4 +1,4 @@
-# SGX Historical Data For Trading Automation
+# SGX Historical Data For Trading - Task Automation
 
 A simple web automation program that helps admin or equivalent position download daily data using selenium and python.
 
